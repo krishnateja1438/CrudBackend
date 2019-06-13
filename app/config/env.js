@@ -2,7 +2,7 @@ const env = {
   database: 'customer_data',
   username: 'mysqluser',
   password: 'mysqldatabase',
-  host: 'mysqldb.cvoqqrgttqat.us-east-1.rds.amazonaws.com',
+  host: 'mysqldb.cekdfczubt3l.us-east-2.rds.amazonaws.com',
   port: '3306',
   dialect: 'mysql',
   pool: {
